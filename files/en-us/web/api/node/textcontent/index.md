@@ -38,7 +38,7 @@ A string, or [`null`](/en-US/docs/Web/JavaScript/Reference/Operators/null). Its 
 
 ### Differences from innerText
 
-Don't get confused by the differences between `Node.textContent` and
+Don't get confused by the similarities between `Node.textContent` and
 {{domxref("HTMLElement.innerText")}}. Although the names seem similar, there are
 important differences:
 
